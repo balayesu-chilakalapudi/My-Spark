@@ -1,10 +1,15 @@
 # My-Spark
 This is a swing project, it includes datepicker for Swing application
-
+import the packages like this
+```
 import org.jdatepicker.impl.JDatePanelImpl;
 import org.jdatepicker.impl.JDatePickerImpl;
 import org.jdatepicker.impl.UtilDateModel;
+```
 
+Add the datepicker like this
+
+```
 UtilDateModel model = new UtilDateModel();
 		
 model.setDate(2023, 7, 18);
@@ -28,3 +33,5 @@ datePicker.addActionListener(new java.awt.event.ActionListener() {
 				populateBoxes(searchkey);
   }
 });
+```
+
