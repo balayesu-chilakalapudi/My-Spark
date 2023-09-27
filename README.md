@@ -1,4 +1,4 @@
-# My-Spark
+# My-Sparks
 This is a swing project, it includes datepicker for Swing application
 import the packages like this
 ```
