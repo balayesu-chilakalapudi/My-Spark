@@ -35,3 +35,12 @@ datePicker.addActionListener(new java.awt.event.ActionListener() {
 });
 ```
 
+Screenshots:
+![image](https://github.com/balayesu-chilakalapudi/My-Sparks/assets/131433146/32b2c372-9f7b-42ba-ab1e-2f8f9a25e196)
+
+![image](https://github.com/balayesu-chilakalapudi/My-Sparks/assets/131433146/5c776d91-05e7-465c-91be-8c27f8a1ee36)
+
+![image](https://github.com/balayesu-chilakalapudi/My-Sparks/assets/131433146/506663f0-9edc-4d59-ba2b-af67731f22ff)
+
+
+
